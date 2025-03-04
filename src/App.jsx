@@ -12,7 +12,9 @@ function App() {
           className='react-logo'
           alt="logo-react" />
       </div>
+      <div className="calculadora-cotenedor">
       <Calculadora />
+      </div>
     </div>
   )
 }

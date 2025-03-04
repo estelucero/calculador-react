@@ -23,3 +23,9 @@ body{
 .react-logo{
   width: 13%;
 }
+
+.calculadora-cotenedor{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
