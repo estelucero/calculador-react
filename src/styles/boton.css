@@ -1,0 +1,28 @@
+.boton-contenedor {
+    height: 40px;
+    flex: 1 1;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 28px;
+    background-color: #5b564a;
+    color: rgb(184, 187, 189);
+    border-radius: 50px;
+    border: 2px solid rgb(184, 187, 189);
+    cursor: pointer;
+    user-select: none;
+}
+
+.boton-contenedor:active {
+    background-color: #928a76;
+}
+
+.operador {
+    background-color: #917946;
+}
+
+.operador:active {
+    background-color: #9b8859;
+}

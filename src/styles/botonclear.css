@@ -1,0 +1,18 @@
+ .boton-clear {
+     height: 35px;
+     font-size: 1.3em;
+     color: rgb(184, 187, 189);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex: 1;
+     background-color: #7c655d;
+     border-radius: 25px;
+     border: 2px solid rgb(184, 187, 189);
+     cursor: pointer;
+     user-select: none;
+ }
+
+ .boton-clear:active {
+     background-color: #5e392d;
+ }
